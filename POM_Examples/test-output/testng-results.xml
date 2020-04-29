@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22838" started-at="2020-04-07T14:49:01Z" finished-at="2020-04-07T14:49:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22838" started-at="2020-04-07T14:49:01Z" finished-at="2020-04-07T14:49:24Z">
+      <class name="TestCases.FindUpdate">
+        <test-method status="PASS" signature="Update()[pri:0, instance:TestCases.FindUpdate@1b083826]" name="Update" duration-ms="22814" started-at="2020-04-07T14:49:01Z" finished-at="2020-04-07T14:49:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Update -->
+      </class> <!-- TestCases.FindUpdate -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
